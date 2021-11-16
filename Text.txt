@@ -1,0 +1,5 @@
+1. git status
+2. git add .
+3. git commit -m "nåt"
+4. git remote add origin https://github.com/Oktaay/Expenses-App.git
+5. git push -u origin master 
